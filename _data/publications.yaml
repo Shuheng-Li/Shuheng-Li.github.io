@@ -1,4 +1,11 @@
 papers:
+  - title: "Imprompter: Tricking LLM Agents into Improper Tool Use"
+    authors: "Xiaohan Fu, <b>Shuheng Li</b>, Zihan Wang, Yihao Liu, Rajesh K Gupta, Taylor Berg-Kirkpatrick, Earlence Fernandes"
+    venue: "In Submission to USENIX 2025"
+    paper_pdf: "https://arxiv.org/pdf/2410.14923"
+    code: "https://github.com/Reapor-Yurnero/imprompter"
+    image: "/assets/publications/imprompter.png"
+    
   - title: "UniMTS: Unified Pre-training for Motion Time Series"
     authors: "Xiyuan Zhang, Diyan Teng, Ranak Roy Chowdhury, <b>Shuheng Li</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang"
     venue: "NeurIPS 2024"
@@ -7,13 +14,56 @@ papers:
     code: "https://github.com/xiyuanzh/UniMTS"
     ckpt: "https://huggingface.co/xiyuanz/UniMTS"
     slide: "/assets/publications/UniMTS_slides.pdf"
+    
+  - title: "How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments"
+    authors: "Jiayun Zhang, <b>Shuheng Li</b>, Haiyu Huang, Zihan Wang, Xiaohan Fu, Dezhi Hong, Rajesh K Gupta, Jingbo Shang"
+    venue: "WWW 2024"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3589334.3645544"
+    image: "/assets/publications/www.png"
+    slide: "/assets/publications/www.pdf"
+    code: "https://github.com/jiayunz/RecipFL"
+    poster: "/assets/publications/www-poster.pdf"
 
-  - title: "Imprompter: Tricking LLM Agents into Improper Tool Use"
-    authors: "Xiaohan Fu, <b>Shuheng Li</b>, Zihan Wang, Yihao Liu, Rajesh K Gupta, Taylor Berg-Kirkpatrick, Earlence Fernandes"
-    venue: "In Submission to USENIX 2025"
-    paper_pdf: "https://arxiv.org/pdf/2410.14923"
+  - title: "Misusing Tools in Large Language Models with Visual Adversarial Examples"
+    authors: "Xiaohan Fu, Zihan Wang, <b>Shuheng Li</b>, Rajesh K Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Earlence Fernandes"
+    venue: "Arxiv Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2310.03185"
     code: "https://github.com/Reapor-Yurnero/imprompter"
+    image: "/assets/publications/misuse.png"
 
+
+  - title: "SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification"
+    authors: "<b>Shuheng Li</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong"
+    venue: "SenSys 2022"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3560905.3568534"
+    image: "/assets/publications/sqee.png"
+    slide: "/assets/publications/sqee.pdf"
+
+
+  - title: "UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification"
+    authors: "<b>Shuheng Li</b>, Ranak Roy Chowdhury, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong"
+    venue: "SenSys 2021"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3485730.3485942"
+    code: "https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification"
+    image: "/assets/publications/units.png"
+    slide: "/assets/publications/units.pdf"
+  
+  - title: "Relation Inference among Sensor Time Series in Smart Buildings with Metric Learning"
+    authors: "<b>Shuheng Li</b>, Dezhi Hong, Hongning Wang"
+    venue: "AAAI 2020"
+    paper_pdf: "https://aaai.org/ojs/index.php/AAAI/article/download/5900/5756"
+    image: "/assets/publications/AAAI-20.png"
+    code: "https://github.com/Shuheng-Li/Relational-Inference"
+    slide: "/assets/publications/AAAI-20.pdf"
+    poster: "/assets/publications/AAAI-20-poster.pdf"
+
+  - title: "Recursive Graphical Neural Networks for Text Classification"
+    authors: "Wei Li, <b>Shuheng Li</b>, Shuming Ma, Yancheng He, Deli Chen, Xu Sun"
+    venue: "Arxiv Preprint"
+    paper_pdf: "https://arxiv.org/pdf/1909.08166"
+    image: "/assets/publications/_19.png"
+
+    
 #   - title: "Chronos: Learning the Language of Time Series"
 #     authors: "Abdul Fatir Ansari, Lorenzo Stella, Caner Turkmen, <b>Xiyuan Zhang</b>, Pedro Mercado, Huibin Shen, Oleksandr Shchur, Syama Sundar Rangapuram, Sebastian Pineda Arango, Shubham Kapoor, Jasper Zschiegner, Danielle C. Maddix, Michael W. Mahoney, Kari Torkkola, Andrew Gordon Wilson, Michael Bohlke-Schneider, Yuyang Wang"
 #     venue: "TMLR <span style='color:#b40c54;'>(100MM+ downloads in six months)</span>"
