@@ -61,7 +61,7 @@ papers:
     authors: "Wei Li, <b>Shuheng Li</b>, Shuming Ma, Yancheng He, Deli Chen, Xu Sun"
     venue: "Arxiv Preprint"
     paper_pdf: "https://arxiv.org/pdf/1909.08166"
-    image: "/assets/publications/_19.png"
+    image: "/assets/publications/19.png"
 
     
 #   - title: "Chronos: Learning the Language of Time Series"
