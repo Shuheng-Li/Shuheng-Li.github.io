@@ -1,4 +1,4 @@
-# Xiyuan Zhang's Website
+# Shuheng Li's Website
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
