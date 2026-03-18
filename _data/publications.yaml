@@ -1,4 +1,11 @@
 papers:
+  - title: "Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR"
+    authors: "<b>Shuheng Li<b>, Jiayun Zhang, Xiaohan Fu, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta"
+    venue: "SenSys 2025"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3715014.3722089"
+    code: "https://github.com/Shuheng-Li/SKELAR"
+    image: "/assets/publications/skelar.png"
+    
   - title: "Imprompter: Tricking LLM Agents into Improper Tool Use"
     authors: "Xiaohan Fu, <b>Shuheng Li</b>, Zihan Wang, Yihao Liu, Rajesh K Gupta, Taylor Berg-Kirkpatrick, Earlence Fernandes"
     venue: "In Submission to USENIX 2025"
